@@ -15,6 +15,14 @@
 
 ---
 
+## 🌐 Deployed App
+
+You can access the deployed app here:
+
+[**NoteX – Deployed App**](https://notex-bot.streamlit.app/)
+
+---
+
 ## ⚙️ Setup
 
 ### 1. Install Python 3.8+
