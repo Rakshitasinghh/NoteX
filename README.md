@@ -1,5 +1,6 @@
 🧠 NoteX – AI Text Summarizer & Q&A Web App
 NoteX is a smart Streamlit-based web app that summarizes and answers questions from PDFs, DOCX files, YouTube videos, websites, and raw text using advanced NLP models like facebook/bart-large-cnn.
+--------------------------------------
 
 🚀 Features
 📄 Summarize PDF and DOCX files
