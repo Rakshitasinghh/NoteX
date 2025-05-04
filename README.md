@@ -18,9 +18,6 @@
 ## ⚙️ Setup
 
 ### 1. Install Python 3.8+
-
-Make sure Python is installed on your system.
-
 ### 2. Install Dependencies & run
 
 ```bash
