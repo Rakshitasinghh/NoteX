@@ -8,10 +8,11 @@ NoteX is a smart Streamlit-based web app that summarizes and answers questions f
 ✍️ Paste raw text for instant summarization
 ❓ Ask questions based on provided content
 ⚡ Clean, interactive Streamlit UI
+----------------------------------------------
+
 
 ⚙️ Setup
 Install Python 3.8+
-
 Install Dependencies
 
 bash
