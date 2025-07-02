@@ -19,7 +19,7 @@
 
 You can access the deployed app here:
 
-[**NoteX – Deployed App**](https://notex-bot.streamlit.app/)
+[**NoteX – Deployed App**](https://notex-main-steamlit.streamlit.app/)
 
 ---
 
